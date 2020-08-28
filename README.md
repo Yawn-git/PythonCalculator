@@ -1,2 +1,2 @@
 # PythonCalculator
-A calculator made by python, who would've guessed?
+A calculator made with python, who would've guessed?
